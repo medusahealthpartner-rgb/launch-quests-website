@@ -7,11 +7,11 @@
 
 ## Portfolio Statistics
 
-- **25+ Total Clients Served** across diverse industries
-- **50+ Projects Completed** with exceptional quality
-- **10+ Industries Covered** from startups to enterprises  
+- **6+ Total Clients Served** across diverse industries
+- **10+ Projects Completed** with exceptional quality
+- **4+ Industries Covered** from startups to enterprises  
 - **95% Client Retention Rate** demonstrating reliability
-- **3-6 months** average project timeline for optimal delivery
+- **1-2 months** average project timeline for optimal delivery
 
 ---
 
