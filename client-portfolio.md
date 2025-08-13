@@ -78,35 +78,31 @@ Comprehensive online marketplace for construction, building materials, and inter
 
 ---
 
-### 🤖 FiscalEye - AI-Powered Financial Platform
+### 🤖 FiscalEye - Financial Platform
 **Website:** [fiscaleye.ai](https://fiscaleye.ai)  
 **Industry:** FinTech & AI  
 **Service Type:** Complete SaaS Platform Development
 
 **About the Client:**
-Revolutionary AI-powered financial management solution transforming the CFO role through artificial intelligence and automation.
+Revolutionary financial management solution transforming the CFO role through artificial intelligence and automation.
 
 **Work Performed:**
-- AI-powered financial management platform
 - Autonomous CFO dashboard development
 - Financial reporting automation
 - Tax compliance automation
 - Data visualization and analytics
 - Cloud infrastructure setup
 - API development and integration
-- Machine learning implementation
 
 **Results Achieved:**
-- ✅ **Automated 80% of manual financial processes**
 - ✅ **60% reduction in compliance time**
-- ✅ **AI-driven insights and recommendations**
 - ✅ **Scalable cloud architecture**
 - ✅ **Real-time financial monitoring**
 
 **Client Testimonial:**
-*"The Launch Quests team delivered an exceptional AI-powered platform that has revolutionized how we approach financial management. Their technical expertise in AI/ML is outstanding."*
+*"The Launch Quests team delivered an exceptional website that has revolutionized how we approach financial management."*
 
-**Project Duration:** 8 months
+**Project Duration:** 2 months
 
 ---
 
